@@ -3,6 +3,60 @@ h1
     color: white; 
     font-size: 40px; 
     background-color: black;
+    font: bold;
+    padding-left: 40px;
+    height:120px;
+    align-items: center;
+
+    
 }
 
-e
+#nav_table, #nav_form, #nav_list
+{
+    color: #000; 
+    font-size: 16px; 
+    border: 1px solid #d1d1d1;
+    text-decoration: none;
+    margin-left: 40p;
+    
+}
+
+#nav_table:hover, #nav_form:hover, #nav_list:hover
+{
+    border:1px solid #454545;
+    font: bold;
+}
+
+h2
+{
+    color: #000; 
+    font-size: 20px;   
+    font: bold;
+    border-bottom: solid 1px #454545;
+    
+}
+
+h3
+{
+    color: #333; 
+    font-size: 16px;   
+    font: bold;
+    background-color: f7f7f7;
+    border: 1px solid #d1d1d1;
+    height:46px;
+    padding-left: 15px;
+}
+
+
+
+*
+{
+    color: #000; 
+    font-size: 12px;  
+}
+
+footer
+{
+   border-top: 1px solid #d1d1d1;
+   text-align:center;
+}
